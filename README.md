@@ -24,7 +24,7 @@
 public class Weverton {
 
     String nome      = "Weverton Jerônimo da Silva";
-    String cargo     = "Dev Front-end Júnior";
+    String cargo     = "Dev Beck-end";
     String empresa   = "Tribunal de Justiça do Estado do Acre";
     String cidade    = "Rio Branco - Acre 🌳";
 
